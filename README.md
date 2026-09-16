@@ -1,12 +1,12 @@
 # Hi, I'm Ranjith 👋
 
-**Business & Data Analyst** who directs AI agents to build and run real business systems — with governance built in from the start.
+**Business & Data Analyst** who directs AI agents to build and run real business systems, with governance built in from the start.
 
 ![Business Analyst](https://img.shields.io/badge/Business-Analyst-0d8f8b?style=flat-square)
 ![AI Business Analyst](https://img.shields.io/badge/AI-Business%20Analyst-0d8f8b?style=flat-square)
 ![Data Analyst](https://img.shields.io/badge/Data-Analyst-0d8f8b?style=flat-square)
 
-I turn business problems into AI-executed workflows — defining the requirement, directing Claude Code to build it, and designing the guardrails that make it safe to run unattended.
+I turn business problems into AI-executed workflows defining the requirement, directing Claude Code to build it, and designing the guardrails that make it safe to run unattended.
 
 ## What I do
 
@@ -20,7 +20,7 @@ I turn business problems into AI-executed workflows — defining the requirement
 | Project | What it shows |
 |---|---|
 | [**jarvis**](https://github.com/Babu3097/jarvis) | Added a tap-to-approve safety gate to a voice assistant, so no effectful action runs without a human decision. Case study in risk & controls design. |
-| [**whispered-notes-gtm-agents**](https://github.com/Babu3097/whispered-notes-gtm-agents) | Directed a library of AI marketing agents — ad creative, SEO, pricing, research — for a live DTC fragrance brand. Case study in GTM program ownership. |
+| [**whispered-notes-gtm-agents**](https://github.com/Babu3097/whispered-notes-gtm-agents) | Directed a library of AI marketing agents — ad creative, SEO, pricing, research for a live DTC fragrance brand. Case study in GTM program ownership. |
 
 ## Skills
 
