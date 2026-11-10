@@ -21,7 +21,6 @@
 <a href="#highlights"><img src="https://img.shields.io/badge/Highlights-0d8f8b?style=flat-square" /></a>
 <a href="#projects"><img src="https://img.shields.io/badge/Projects-0d8f8b?style=flat-square" /></a>
 <a href="#experience"><img src="https://img.shields.io/badge/Experience-0d8f8b?style=flat-square" /></a>
-<a href="#learning"><img src="https://img.shields.io/badge/Currently%20Learning-0d8f8b?style=flat-square" /></a>
 <a href="#connect"><img src="https://img.shields.io/badge/Connect-0d8f8b?style=flat-square" /></a>
 </p>
 
@@ -63,6 +62,7 @@ More recently I've been extending that into directing AI agents: using Claude Co
 **AI & Automation**
 <br>
 <img src="https://img.shields.io/badge/Claude%20Code-0d8f8b?style=flat-square" />
+<img src="https://img.shields.io/badge/Claude%20API-0d8f8b?style=flat-square" />
 <img src="https://img.shields.io/badge/AI%20Agents-0d8f8b?style=flat-square" />
 <img src="https://img.shields.io/badge/MCP-0d8f8b?style=flat-square" />
 
@@ -123,6 +123,28 @@ Delivered 10–15% annual savings through supplier and operational process impro
 ## 🚀 Featured Projects <a id="projects"></a>
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Payments Fraud Monitoring Lakehouse
+`Databricks` `PySpark` `Delta Lake` `Auto Loader` `GitHub Actions`
+
+End-to-end lakehouse over 7.0M payment transactions: bronze / silver / gold layers, a star schema with SCD Type 2, 54 data-quality expectations and 67 reconciliation checks, and ~430 tests with CI.
+
+**[→ Repo](https://github.com/Babu3097/payments-fraud-lakehouse)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 AI-Ready Operations Pipeline
+`Python` `SQL` `Claude API` `Power BI`
+
+AI triage on synthetic council enquiries, tested honestly: personal data masked, human review for urgent cases, category accuracy 84% → 98% after a prompt rewrite (96% on 60 unseen messages), 0 of 86 urgent cases missed without a person seeing them.
+
+**[→ Repo](https://github.com/Babu3097/ai-ready-pipeline)**
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -226,17 +248,6 @@ Directed a library of AI marketing agents (ad creative, SEO, pricing, customer r
 
 <br>
 
-## 🌱 Currently Learning <a id="learning"></a>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Engineering-0d8f8b?style=flat-square" />
-<img src="https://img.shields.io/badge/AI%20Agent%20Direction-0d8f8b?style=flat-square" />
-</div>
-
-<br>
-
 ## 🎓 Education & Certifications
 
 <table>
@@ -264,7 +275,7 @@ Directed a library of AI marketing agents (ad creative, SEO, pricing, customer r
 
 <div align="center">
 
-Open to Business Analyst, AI Business Analyst, Data Analyst and related management roles — always happy to talk data modelling, BI, or AI-directed workflows.
+Open to Business Analyst, AI Business Analyst, Data Analyst and related management roles — always happy to talk data modelling, BI, or AI-directed workflows. I'm open to learning any new tools or technologies a role needs.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rkpb97)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranjithbabu3097@gmail.com)
